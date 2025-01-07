@@ -44,6 +44,17 @@ Welcome to my GitHub profile! I’m a student with a passion for **web developme
      - Integrated **MetaMask** for user wallet interaction and transaction management.
      - Used **Hardhat** for smart contract testing, deployment, and Ethereum blockchain integration.
    - [Link to Repository](https://github.com/rohith0224/TicketManager)
+### 5. **Predicting Scores Based on Study Hours**
+   - **Task**: The Sparks Foundation GRIP (March 2022)
+   - **Description**: This project uses **Simple Linear Regression** to predict students' exam scores based on study hours. The model is trained on historical data and evaluated using **Mean Absolute Error (MAE)** and **R-squared (R²)**.
+   - **Objective**: Predict scores based on study hours using a supervised learning model.
+   - **Key Steps**:
+     1. **Data Exploration**: Visualizing the correlation between study hours and scores.
+     2. **Model Training**: Fitting a linear regression model using **Scikit-learn**.
+     3. **Prediction**: Predicting scores for given study times (e.g., 9.25 hours).
+   - **Technologies Used**: Python, Pandas, NumPy, Scikit-learn, Matplotlib
+   - [Link to Repository](https://github.com/rohith0224/The-sparks-foundation-TSF-Task-1-Data-Science-and-Business-analytics-GRIP-Task1-March2022)
+
 
 
 ## 🌱 I'm currently learning
@@ -70,14 +81,11 @@ Welcome to my GitHub profile! I’m a student with a passion for **web developme
 
 ## 💼 Work Experience
 
-### **Trainee Software Engineer at Global Logic (now part of Hitachi)**
+### **Trainee Software Engineer at Global Logic (March 2024 - June 2024)**
    - Focused on front-end development, including creating responsive web pages and improving user experience using HTML, CSS, and JavaScript.
    - Collaborated on several internal tools to streamline processes and improve accessibility.
    - Gained hands-on experience in performance optimization and front-end architecture.
 
-### **The Sparks Foundation - Data Science and Machine Learning Intern**
-   - Completed A project involving data analysis, machine learning, and predictive modeling.
-   - Worked on customer data analysis and machine learning algorithms to predict outcomes and classify data.
 
 ## 📫 How to reach me
 - Email: [rohithsunkara06@gmail.com](mailto:rohithsunkara06@gmail.com)
