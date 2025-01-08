@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I’m a student with a passion for **web developme
    - **Key Learnings**: 
      - Gained hands-on experience in building responsive and interactive web pages.
      - Integrated modern design principles to create an attractive and functional portfolio.
-   - [Link to Portfolio](#)
+   - [Link to Portfolio](https://github.com/rohith0224/Sunkara-Rohith-Portifolio.git)
 
 ### 4. **Ticket Manager (Web 3.0 Application)**
    - **Description**: A decentralized **Web 3.0** application for managing and tracking tickets (support, events, etc.) using blockchain technology. The system allows users to create, update, and track tickets securely through the integration of **Solidity** smart contracts and **MetaMask** for Ethereum-based transactions.
