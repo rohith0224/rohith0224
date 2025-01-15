@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I’m a student with a passion for **web developme
 
 ## 🎓 Education
 - **Master's in Computer Science** - George Washington University (2023-Present)
-- **Bachelor's in Computer Science** - [University Name] (2019-2023)
+- **Bachelor's in Computer Science** - [Gitam University] (2019-2023)
 
 ## 🚀 Projects
 
