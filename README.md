@@ -1,6 +1,9 @@
 # Hi there 👋 I'm Sunkara Rohith
 
 Welcome to my GitHub profile! I’m a student with a passion for **web development**, **data science**, and exploring **evolving technologies**. Currently, I am pursuing my master's degree at George Washington University and gaining hands-on experience with front-end development, blockchain, and machine learning.
+## 📂 Online Portfolio  
+Explore my work, projects, and experience:  
+[**Visit My Portfolio**](https://sunkararohith.carrd.co) 
 
 ## 🎓 Education
 - **Master's in Computer Science** - George Washington University (2023-Present)
