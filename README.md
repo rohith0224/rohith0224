@@ -6,7 +6,7 @@ Explore my work, projects, and experience:
 [**Visit My Portfolio**](https://sunkararohith.carrd.co) 
 
 ## 🎓 Education
-- **Master's in Computer Science** - George Washington University (2023-Present)
+- **Master's in Computer Science** - George Washington University (2024-Present)
 - **Bachelor's in Computer Science** - Gitam University (2019-2023)
 
 ## 🚀 Projects
