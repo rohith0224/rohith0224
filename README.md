@@ -49,15 +49,6 @@ Explore my work, projects, and experience:
      - Integrated modern design principles to create an attractive and functional portfolio.
    - [Link to Portfolio](https://github.com/rohith0224/Sunkara-Rohith-Portifolio.git)
 
-### 2. **Ticket Manager (Web 3.0 Application)**
-   - **Description**: A decentralized **Web 3.0** application for managing and tracking tickets (support, events, etc.) using blockchain technology. The system allows users to create, update, and track tickets securely through the integration of **Solidity** smart contracts and **MetaMask** for Ethereum-based transactions.
-   - **Tech Stack**: React.js, JavaScript, Solidity, MetaMask, Hardhat
-   - **Key Learnings**:
-     - Developed the front-end interface using **React.js** for a dynamic and interactive user experience.
-     - Implemented **Solidity** smart contracts for decentralized ticket management and Ethereum-based transactions.
-     - Integrated **MetaMask** for user wallet interaction and transaction management.
-     - Used **Hardhat** for smart contract testing, deployment, and Ethereum blockchain integration.
-   - [Link to Repository](https://github.com/rohith0224/TicketManager)
 ### 5. **Predicting Scores Based on Study Hours**
    - **Task**: The Sparks Foundation GRIP (March 2022)
    - **Description**: This project uses **Simple Linear Regression** to predict students' exam scores based on study hours. The model is trained on historical data and evaluated using **Mean Absolute Error (MAE)** and **R-squared (R²)**.
@@ -75,6 +66,10 @@ Explore my work, projects, and experience:
 - Deep learning and advanced data science techniques.
 - React.js for front-end development.
 - **Solidity** and **blockchain development** to build decentralized applications.
+- API integrations to connect front-end and back-end services.
+- Building and deploying machine learning models using FastAPI and Flask.
+
+
 
 ## 👯 I’m looking to collaborate on
 - Data science and machine learning projects.
