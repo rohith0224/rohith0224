@@ -22,7 +22,16 @@ Explore my work, projects, and experience:
    - [Link to Publication](https://link.springer.com/chapter/10.1007/978-981-99-1624-5_23)
 
 
-### 2. **Ticket Manager (Web 3.0 Application)**
+### 2. **Skill-Based Job Recommendation System**
+   - **Description**: This project builds an AI-driven job recommendation system that analyzes resumes and suggests relevant job roles while identifying missing skills. It helps users understand which roles match their skill profile and what additional skills are needed to improve their chances.
+   - **Tech Stack**: Python, scikit-learn, TF-IDF, Streamlit, LangChain, pdfplumber
+   - **Key Learnings**:
+     - Built a text-based machine learning pipeline using TF-IDF and a linear classifier for job role prediction.
+     - Worked with unstructured resume and job posting data, including skill extraction, normalization, and canonicalization.
+     - Implemented ranking-based job recommendations and skill gap analysis with human-readable explanations.
+   - [Link to Repository](https://github.com/rohith0224/Skill-Based-Job-Recommendation-System.git)
+
+### 3. **Ticket Manager (Web 3.0 Application)**
    - **Description**: A decentralized **Web 3.0** application for managing and tracking tickets (support, events, etc.) using blockchain technology. The system allows users to create, update, and track tickets securely through the integration of **Solidity** smart contracts and **MetaMask** for Ethereum-based transactions.
    - **Tech Stack**: React.js, JavaScript, Solidity, MetaMask, Hardhat
    - **Key Learnings**:
@@ -31,14 +40,6 @@ Explore my work, projects, and experience:
      - Integrated **MetaMask** for user wallet interaction and transaction management.
      - Used **Hardhat** for smart contract testing, deployment, and Ethereum blockchain integration.
    - [Link to Repository](https://github.com/rohith0224/TicketManager)
-
-### 3. **Mall Customer Segmentation using Hierarchical Clustering**
-   - **Description**: This project uses hierarchical clustering to segment mall customers based on their shopping behaviors and demographics. It helps businesses target the right customers with personalized strategies.
-   - **Tech Stack**: Python, scikit-learn, Pandas, NumPy, Matplotlib
-   - **Key Learnings**: 
-     - Implemented hierarchical clustering algorithm to create customer segments.
-     - Worked with data preprocessing and visualization.
-   - [Link to Repository](https://github.com/rohith0224/Mall-customer-segmentation-1-stop-ai)
 
 
 ### 4. **Personal Portfolio**
