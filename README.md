@@ -1,6 +1,8 @@
 # Hi there 👋 I'm Sunkara Rohith
 
-Welcome to my GitHub profile! I’m a student with a passion for **web development**, **data science**, and exploring **evolving technologies**. Currently, I am pursuing my master's degree at George Washington University and gaining hands-on experience with front-end development, blockchain, and machine learning.
+Welcome to my GitHub profile! I’m an aspiring AI Engineer passionate about building intelligent systems powered by Machine Learning, Generative AI, and LLM-driven applications.
+
+Currently pursuing my Master’s in Computer Science at The George Washington University, I focus on designing and deploying real-world AI solutions — from multi-output ML models and recommendation systems to LLM-based agents, RAG pipelines, and workflow automation tools.
 ## 📂 Online Portfolio  
 Explore my work, projects, and experience:  
 [**Visit My Portfolio**](https://rohithsunkara.wixsite.com/portifolio) 
