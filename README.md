@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Sunkara Rohith
+# Hi there 👋 I'm Rohith Sunkara
 
 Welcome to my GitHub profile! I'm an aspiring **AI Engineer** focused on building scalable, production-ready intelligent systems using **Machine Learning, Deep Learning, and Generative AI**.
 
