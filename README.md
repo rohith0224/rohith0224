@@ -3,9 +3,6 @@
 Welcome to my GitHub profile! I’m an aspiring AI Engineer passionate about building intelligent systems powered by Machine Learning, Generative AI, and LLM-driven applications.
 
 Currently pursuing my Master’s in Computer Science at The George Washington University, I focus on designing and deploying real-world AI solutions — from multi-output ML models and recommendation systems to LLM-based agents, RAG pipelines, and workflow automation tools.
-## 📂 Online Portfolio  
-Explore my work, projects, and experience:  
-[**Visit My Portfolio**](https://rohithsunkara.wixsite.com/portifolio) 
 
 ## 🎓 Education
 - **Master's in Computer Science** - George Washington University (2024-Present)
