@@ -1,127 +1,113 @@
 # Hi there 👋 I'm Rohith Sunkara
 
-Welcome to my GitHub profile! I'm an aspiring **AI Engineer** focused on building scalable, production-ready intelligent systems using **Machine Learning, Deep Learning, and Generative AI**.
+🚀 Aspiring **AI Engineer** building scalable, production-ready intelligent systems using **Machine Learning, Deep Learning, and Generative AI**.
 
-Currently pursuing my **Master’s in Computer Science at The George Washington University**, I specialize in designing and deploying applied AI systems — from ML pipelines and recommendation engines to LLM-powered agents and workflow automation tools.
-
----
-
-## 🎓 Education
-
-- **Master's in Computer Science** – George Washington University (2024–Present)  
-- **Bachelor's in Computer Science** – Gitam University (2019–2023)
+🎓 Master's in Computer Science – The George Washington University  
+💡 Focused on applied AI systems — ML pipelines, recommendation engines, LLM-powered agents, and workflow automation.
 
 ---
 
-# 🚀  Projects
+## 🛠 Tech Stack
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
+
+### 🤖 AI / Machine Learning
+![scikit-learn](https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn)
+![XGBoost](https://img.shields.io/badge/XGBoost-111827?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch)
+![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-111827?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-111827?style=for-the-badge)
+
+### ⚙️ Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express)
+
+### 🗄 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql)
+
+### 🚀 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
+![Streamlit](https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit)
+
+---
+
+# 🚀 Projects
 
 ## 1️⃣ Assiduous Study of Hyper-parameters Influence on CNN (Springer Publication)
 
-- **Overview**: Conducted empirical research analyzing how hyperparameters (learning rate, batch size, dropout, filter size) impact CNN performance, generalization, and overfitting.
-- **Tech Stack**: Python, TensorFlow, Keras
-- **Impact**:
-  - Improved model accuracy through systematic hyperparameter tuning
-  - Reduced overfitting using optimized dropout and architecture depth
-  - Provided experimental benchmarks for training stability
+- Conducted empirical research analyzing learning rate, batch size, dropout, and filter size impact on CNN performance.
+- Improved model accuracy through systematic hyperparameter tuning.
+- Reduced overfitting using optimized dropout and architecture depth.
 
-🔗 Publication: https://link.springer.com/chapter/10.1007/978-981-99-1624-5_23
+🔗 https://link.springer.com/chapter/10.1007/978-981-99-1624-5_23
 
 ---
 
 ## 2️⃣ AI-Powered Skill-Based Job Recommendation System
 
-- **Overview**: Built an end-to-end ML system that predicts job roles from resumes and identifies skill gaps using NLP + ranking algorithms.
-- **Tech Stack**: Python, scikit-learn, TF-IDF, LangChain, Streamlit, pdfplumber
-- **Key Highlights**:
-  - Implemented multi-class classification using TF-IDF + Linear SGD
-  - Designed skill extraction + normalization pipeline
-  - Developed explainable ranking-based recommendation engine
-  - Integrated LLM-based enhancements for intelligent insights
+- Built end-to-end ML system predicting job roles from resumes.
+- Implemented multi-class classification using TF-IDF + Linear SGD.
+- Designed ranking-based recommendation engine with LLM enhancements.
 
-🔗 Repo: https://github.com/rohith0224/Skill-Based-Job-Recommendation-System
+🔗 https://github.com/rohith0224/Skill-Based-Job-Recommendation-System
 
 ---
 
 ## 3️⃣ Decentralized Ticket Manager (Web3 + Smart Contracts)
 
-- **Overview**: Built a blockchain-based ticket tracking system using Solidity smart contracts.
-- **Tech Stack**: React, Solidity, MetaMask, Hardhat
-- **Highlights**:
-  - Implemented secure ticket state management on Ethereum
-  - Developed frontend interface for smart contract interaction
-  - Tested & deployed contracts using Hardhat
+- Developed blockchain-based ticket tracking using Solidity.
+- Built frontend interface with React + MetaMask.
+- Deployed and tested contracts using Hardhat.
 
-🔗 Repo: https://github.com/rohith0224/TicketManager
+🔗 https://github.com/rohith0224/TicketManager
 
 ---
 
-## 4️⃣ Machine Learning: Study Hours vs Score Prediction
+## 4️⃣ Study Hours vs Score Prediction
 
-- **Overview**: Implemented supervised regression model to predict student performance.
-- **Tech Stack**: Python, Pandas, NumPy, scikit-learn
-- **Focus**:
-  - Data preprocessing & visualization
-  - Model evaluation using MAE and R²
-  - Linear regression pipeline implementation
+- Built regression pipeline using scikit-learn.
+- Evaluated model with MAE and R².
+- Focused on preprocessing, visualization, and performance metrics.
 
-🔗 Repo: https://github.com/rohith0224/The-sparks-foundation-TSF-Task-1-Data-Science-and-Business-analytics-GRIP-Task1-March2022
+🔗 https://github.com/rohith0224/The-sparks-foundation-TSF-Task-1-Data-Science-and-Business-analytics-GRIP-Task1-March2022
 
 ---
 
-# 🧠 Currently Focused On
-
-- LLM-powered AI agents
-- RAG (Retrieval-Augmented Generation) systems
-- Multi-output ML models
-- AI system deployment using FastAPI
-- Scaling ML systems using AWS + Docker
-- Model optimization and evaluation frameworks
-
----
-
-# 🛠 Technical Skills
-
-### Programming
-Python (Primary), SQL, TypeScript
-
-### AI / Machine Learning
-scikit-learn, XGBoost, TensorFlow, PyTorch, LangChain, OpenAI APIs, RAG Systems, Embeddings
-
-### Backend & APIs
-FastAPI, Flask, Node.js, Express
-
-### Databases
-PostgreSQL, MySQL
-
-### DevOps & Tools
-Git, Docker, AWS, Streamlit
-
----
-
-# 💼 Work Experience
+# 💼 Experience
 
 ### Trainee Software Engineer – GlobalLogic (Mar 2024 – Jun 2024)
 
-- Developed responsive frontend components and internal tools
-- Improved UI performance and usability
-- Collaborated in Agile development cycles
+- Developed responsive frontend components.
+- Improved UI performance and usability.
+- Collaborated in Agile development cycles.
 
 ---
 
-# 🤝 Open to Collaborate On
+# 🧠 Currently Exploring
 
-- AI Engineering projects
-- LLM systems & automation tools
-- Applied machine learning research
-- End-to-end ML system deployment
+- LLM-powered multi-agent systems  
+- RAG architectures  
+- AI system deployment with FastAPI + Docker  
+- Scalable ML systems using AWS  
+- Model optimization & evaluation frameworks  
 
 ---
 
 # 📫 Connect With Me
 
 📧 rohithsunkara06@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/sunkara-rohith-817288219/  
-💻 GitHub: https://github.com/rohith0224  
+🔗 https://www.linkedin.com/in/sunkara-rohith-817288219/  
+💻 https://github.com/rohith0224  
 
 ---
 
