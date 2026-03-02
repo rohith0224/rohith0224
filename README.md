@@ -13,7 +13,7 @@ Currently pursuing my **Master’s in Computer Science at The George Washington 
 
 ---
 
-# 🚀 AI Projects
+# 🚀  Projects
 
 ## 1️⃣ Assiduous Study of Hyper-parameters Influence on CNN (Springer Publication)
 
