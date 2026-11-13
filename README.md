@@ -83,15 +83,6 @@
 
 ---
 
-# 💼 Experience
-
-### Trainee Software Engineer – GlobalLogic (Mar 2024 – Jun 2024)
-
-- Developed responsive frontend components.
-- Improved UI performance and usability.
-- Collaborated in Agile development cycles.
-
----
 
 # 🧠 Currently Exploring
 
